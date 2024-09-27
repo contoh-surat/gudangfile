@@ -1,0 +1,7 @@
+public
+.next
+src
+   pages
+   components
+   assets
+next.config.js
